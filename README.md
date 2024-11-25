@@ -79,16 +79,7 @@ npm run build
 
 ---
 
-## Screenshots 🖼️
 
-### Flashcard List
-![Flashcard List Screenshot](https://via.placeholder.com/800x400)
-
-### Share Modal
-![Share Modal Screenshot](https://via.placeholder.com/800x400)
-
-### Download as PDF
-![PDF Download Screenshot](https://via.placeholder.com/800x400)
 
 ---
 
