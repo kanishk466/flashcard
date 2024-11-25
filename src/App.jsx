@@ -6,11 +6,12 @@ import CreateFlashCard from "./pages/CreateFlashCard"
 import MyFlashcard from "./pages/MyFlashcards"
 
 import FlashcardDetails from './pages/FlashcardDetails'
-
+import "./App.css"
 
 const App = () => {
   return (
     <Router>
+      <Navbar/>
       <Routes>
         <Route path='/' element={<CreateFlashCard/>}/>
         <Route path='/my-flashcard' element={<MyFlashcard/>}/>
