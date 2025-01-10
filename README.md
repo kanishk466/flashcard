@@ -1,4 +1,4 @@
-Here’s a **professional and comprehensive README** for your flashcard application:
+
 
 ---
 
